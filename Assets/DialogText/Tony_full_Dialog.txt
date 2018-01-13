@@ -1,0 +1,5 @@
+This is a test Dialog (press space)
+
+Testing one two. (press space, again)
+
+Test, test, test.(press space, one last time and this box should close)

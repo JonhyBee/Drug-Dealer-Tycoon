@@ -152,4 +152,11 @@ public class NPCcontroller : baseCharacter
     walkCounter = walkTime;
   }
 
+  void OnMouseOver()
+  {
+    if (Input.GetMouseButtonDown(0)) //On right Click...
+    {
+      // OPEN DIALOG with this NPC HERE;
+    }
+  }
 }
